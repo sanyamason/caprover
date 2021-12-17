@@ -35,7 +35,7 @@
         "@types/ssh2": "^0.5.47",
         "@types/tar": "^4.0.5",
         "@types/uuid": "^8.3.1",
-        "@types/validator": "^13.6.3",
+        "@types/validator": "^13.7.0",
         "@typescript-eslint/eslint-plugin": "^4.29.3",
         "@typescript-eslint/parser": "^4.29.3",
         "axios": "^0.21.1",
